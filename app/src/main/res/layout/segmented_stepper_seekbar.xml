@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:orientation="vertical">
+    <SeekBar
+        android:id="@+id/segmented_stepper_seekbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/shape_roundbar"
+        android:backgroundTint="#9c2c4c"
+        android:thumb="@drawable/tick_selected" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_centerInParent="true"
+        android:paddingLeft="10dp"
+        android:id="@+id/ll_containertick"
+        android:paddingRight="10dp"
+        android:orientation="horizontal"
+        android:weightSum="100"
+        android:layout_height="wrap_content" >
+
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:id="@+id/ll_containerticklables"
+        android:layout_below="@+id/segmented_stepper_seekbar"
+        android:layout_centerInParent="true"
+        android:weightSum="100"
+        android:layout_height="wrap_content" >
+
+    </LinearLayout>
+</RelativeLayout>

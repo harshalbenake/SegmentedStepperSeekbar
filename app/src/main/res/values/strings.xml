@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SegmentedStepperSeekbar</string>
+
+    <!--options-->
+    <string-array name="arr_options">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+    <string-array name="arr_optionstag">
+        <item>LowTag</item>
+        <item>MediumTag</item>
+        <item>HighTag</item>
+    </string-array>
+    <!--options-->
+
+</resources>

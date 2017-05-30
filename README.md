@@ -1,6 +1,8 @@
 # SegmentedStepperSeekbar
 ![alt text](https://github.com/harshalbenake/SegmentedStepperSeekbar/blob/master/app/src/main/res/drawable/segmented_stepper_seekbar.png)
 
+<a href="https://android-arsenal.com/details/3/5813"><img src="https://img.shields.io/badge/Android%20Arsenal-Segmented%20Stepper%20Seekbar-brightgreen.svg?style=flat" border="0" alt="Android Arsenal"></a>
+
 Android and all mobile technologies are changing very rapidly and users need more attractive and new kinda control views. Most of us do get bored with same things everywhere.
 
 A SeekBar is an extension of ProgressBar that adds a draggable thumb. The user can touch the thumb and drag left or right to set the current progress level or use the arrow keys.

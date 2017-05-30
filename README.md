@@ -21,4 +21,4 @@ Just add up below code snippets,
 <span style="color: #4070a0">android:layout_height=&quot;wrap_content&quot;</span><span style="color: #062873; font-weight: bold">/&gt;</span>
 </pre></td></tr></table></div>
 
-Please Note (Work in progress):- This control will be available in gradle form for soon.
+Please Note (Work in progress):- This control will be available in gradle build soon.
